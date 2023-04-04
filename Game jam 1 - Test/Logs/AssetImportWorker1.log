@@ -287,3 +287,87 @@ Received Import Request.
   path: Assets/Warped City 2/Music/cyberpunk city 2.wav
   artifactKey: Guid(ec63dce1e06684e51969fda535cbc967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Warped City 2/Music/cyberpunk city 2.wav using Guid(ec63dce1e06684e51969fda535cbc967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987c2315eb4518ff1b1636c6a9eebd09') in 0.775443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1275.232009 seconds.
+  path: Assets/Tile Palletes/Obstacles Tileset.prefab
+  artifactKey: Guid(18796f2cfeb0a2c4d9773b835a90591b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/Obstacles Tileset.prefab using Guid(18796f2cfeb0a2c4d9773b835a90591b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd2ce3dfa8aa829f6052ab65ca8f0ca') in 0.968062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Tile Palletes/tileset_3.asset
+  artifactKey: Guid(07d6d0b55305d17499ed441d64fc44f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_3.asset using Guid(07d6d0b55305d17499ed441d64fc44f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff72f2313ac17cdbb198bf4cbfccb048') in 0.086548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.032826 seconds.
+  path: Assets/Warped City 2/Prefabs/Misc Prefabs/Explosion.prefab
+  artifactKey: Guid(e360672ae39314ff1a77fee796e40aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Misc Prefabs/Explosion.prefab using Guid(e360672ae39314ff1a77fee796e40aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3d79d55db70d6f6f61d0c98418689c') in 0.169702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Warped City 2/Prefabs/Misc Prefabs/Player Shoot.prefab
+  artifactKey: Guid(6874799162c5e43ad8b8d2f5d917f42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Misc Prefabs/Player Shoot.prefab using Guid(6874799162c5e43ad8b8d2f5d917f42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d460d8a9b2d3daaba34d29d3d62ead8') in 0.063915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.131200 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Duck.prefab
+  artifactKey: Guid(5a91664aefca744b781a4a78fff753ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Duck.prefab using Guid(5a91664aefca744b781a4a78fff753ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40788738f11afdc2be98a556100197bc') in 0.064114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Turret Idle.prefab
+  artifactKey: Guid(511cd3514a9024c9ca822be22c9a0e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Turret Idle.prefab using Guid(511cd3514a9024c9ca822be22c9a0e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74855b5b03f172916211b02101efc029') in 0.056123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Run.prefab
+  artifactKey: Guid(2e90b44c04cea4c0fa1cd6625c5bc242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Run.prefab using Guid(2e90b44c04cea4c0fa1cd6625c5bc242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129dc699abff3dd40553ae4b43e1e2ca') in 0.075684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Fall.prefab
+  artifactKey: Guid(098d4a05a626b4cf0a9b03cb47f5f9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Fall.prefab using Guid(098d4a05a626b4cf0a9b03cb47f5f9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6c6f5caf8b9f95f2410fe7dc22b6e8') in 0.058155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.229364 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Banner B.prefab
+  artifactKey: Guid(0b0f82370c5c74b22988bb37c0441a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Banner B.prefab using Guid(0b0f82370c5c74b22988bb37c0441a99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3924298919c5af55b882937f475b3cf') in 0.068942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Lights.prefab
+  artifactKey: Guid(b12212edccbbf45bfabca7361cf12f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Lights.prefab using Guid(b12212edccbbf45bfabca7361cf12f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e398fb75bfe99e7605a1a34f6baa83') in 0.070183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Banner C.prefab
+  artifactKey: Guid(790308497e51446d5ba62fe622463e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Banner C.prefab using Guid(790308497e51446d5ba62fe622463e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e84d03d764e981c0c312773653b3ecc9') in 0.066048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 379.324768 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/background/front.png
+  artifactKey: Guid(6e929c941613e44cbb3e08149ba789e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/background/front.png using Guid(6e929c941613e44cbb3e08149ba789e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7dfe1bd15577e04a7bfdcc0d290bd8a') in 0.343514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.357860 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b2.png
+  artifactKey: Guid(cdcf11b1ff39e4b2ca68e69072528a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b2.png using Guid(cdcf11b1ff39e4b2ca68e69072528a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1efc7b80ca755fb9b51a02181ca8d0') in 0.046692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b4.png
+  artifactKey: Guid(8e1832df038e3447e82d137c9f48eb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b4.png using Guid(8e1832df038e3447e82d137c9f48eb4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4723cf1466cd81b5f8489143d382dc9d') in 0.058804 seconds 

@@ -305,3 +305,231 @@ Received Import Request.
   path: Assets/Warped City 2/Artwork/Environment/tileset.png
   artifactKey: Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Warped City 2/Artwork/Environment/tileset.png using Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a640b09c74c13f2f5d927b4c418d947c') in 0.100318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 847.155332 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/tileset.png
+  artifactKey: Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/tileset.png using Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d2903f5d04ab5a2de86f78229933e3') in 0.389459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 152.010292 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/tileset.png
+  artifactKey: Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/tileset.png using Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07367d3c812de2c07e2e963e238e1d40') in 0.029210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.808973 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/tileset.png
+  artifactKey: Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/tileset.png using Guid(375c6f765985c4a539f757c9c8b5cfec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc41162e8635d38d577253e3f23414b') in 0.191691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 199.580701 seconds.
+  path: Assets/Tile Palletes/Obstacle Tiles.asset
+  artifactKey: Guid(407cff43734b9864580711d0b330b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/Obstacle Tiles.asset using Guid(407cff43734b9864580711d0b330b581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68f3cc01cf32086b67df70754a66f99') in 0.161987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Tile Palletes/tileset_8.asset
+  artifactKey: Guid(93faec035e5508440b2e49f45546cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_8.asset using Guid(93faec035e5508440b2e49f45546cb3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa4784d347d8a1603ea427061f8d8984') in 0.114418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Tile Palletes/tileset_15.asset
+  artifactKey: Guid(5e2f970825b90a648bdab2d57e92c071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_15.asset using Guid(5e2f970825b90a648bdab2d57e92c071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f945eac9c476ce504ec2eb660f076e5') in 0.052805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Tile Palletes/tileset_4.asset
+  artifactKey: Guid(8d29fc6f0523ef34cbc7fb6666adc357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_4.asset using Guid(8d29fc6f0523ef34cbc7fb6666adc357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b56411402700071a04ed1b47749229') in 0.041034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Tile Palletes/tileset_16.asset
+  artifactKey: Guid(09b8347d8d3dfb443a841f4986df4315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_16.asset using Guid(09b8347d8d3dfb443a841f4986df4315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34d70c1d5e2812841bed92d8eb7ca33') in 0.034202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Tile Palletes/tileset_2.asset
+  artifactKey: Guid(ba6c1af6a025ff94cabfc05a01bd388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_2.asset using Guid(ba6c1af6a025ff94cabfc05a01bd388c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b87311e5c169c69a565dbdeff440ac6') in 0.037461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Tile Palletes/tileset_11.asset
+  artifactKey: Guid(22724fd133ecf4445a5b9c534011a898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_11.asset using Guid(22724fd133ecf4445a5b9c534011a898) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c067e174be49742d3dc6b2a088315f87') in 0.036456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Tile Palletes/tileset_0.asset
+  artifactKey: Guid(326cefe26ff998f4c99948a6d909ed40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_0.asset using Guid(326cefe26ff998f4c99948a6d909ed40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddd28d91997b69c5479c52513ab1df70') in 0.038421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Tile Palletes/tileset_14.asset
+  artifactKey: Guid(e50522e9ce3250d4c92674a4b4e1584d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_14.asset using Guid(e50522e9ce3250d4c92674a4b4e1584d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f7515be5a459e1abfc2a4f568e83db') in 0.035519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Tile Palletes/tileset_12.asset
+  artifactKey: Guid(7465003d63f00ee4a875df0e24e243e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_12.asset using Guid(7465003d63f00ee4a875df0e24e243e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2e91bca52f5851fcd89a8136840021') in 0.033728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Tile Palletes/tileset_7.asset
+  artifactKey: Guid(1d1709274ec84d64695bbfa1b73d3cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_7.asset using Guid(1d1709274ec84d64695bbfa1b73d3cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd1983626e8c1107038a5933a264136') in 0.040023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Tile Palletes/tileset_13.asset
+  artifactKey: Guid(d355b3beb09b6f548826e6a939b77183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_13.asset using Guid(d355b3beb09b6f548826e6a939b77183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99945fc32381f3c1a1d35152aa4bc5e1') in 0.041456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Tile Palletes/tileset_10.asset
+  artifactKey: Guid(4983748dc0b4e8847967f9bb5cefa0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_10.asset using Guid(4983748dc0b4e8847967f9bb5cefa0e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d15e027f915db6d200353bff8de95b8') in 0.035434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Tile Palletes/tileset_9.asset
+  artifactKey: Guid(73b6a05b93f8d0d42a4baf0218c9bffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_9.asset using Guid(73b6a05b93f8d0d42a4baf0218c9bffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c20de640aa10452a251e1f800a159d') in 0.033035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Tile Palletes/tileset_1.asset
+  artifactKey: Guid(50552c6ee09835f42b4f63211371608e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_1.asset using Guid(50552c6ee09835f42b4f63211371608e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f84e27977250efc6e8c8cd1eace5a73') in 0.034580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Tile Palletes/tileset_17.asset
+  artifactKey: Guid(be6ab71349be4a24b840b33a8588b858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_17.asset using Guid(be6ab71349be4a24b840b33a8588b858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b3d61e54819e66858be141ba2712eb') in 0.034644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Tile Palletes/tileset_5.asset
+  artifactKey: Guid(7d744a3b932c82640bc21bbc2194df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_5.asset using Guid(7d744a3b932c82640bc21bbc2194df1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d69d841b71613abe29029f3b099d244') in 0.028519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Tile Palletes/tileset_6.asset
+  artifactKey: Guid(4172b43cc1abbb147b97b00ba56de7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tile Palletes/tileset_6.asset using Guid(4172b43cc1abbb147b97b00ba56de7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69e5623073abe1ab01e034169d18211') in 0.029283 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.202608 seconds.
+  path: Assets/Warped City 2/Scenes
+  artifactKey: Guid(c929e64195746476e8d56f4689ada18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Scenes using Guid(c929e64195746476e8d56f4689ada18d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb939ac930b0200234c40b84a8faf8f') in 0.020453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.903048 seconds.
+  path: Assets/Warped City 2/Prefabs
+  artifactKey: Guid(7b051beae36724c6284c3004d076fb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs using Guid(7b051beae36724c6284c3004d076fb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2a9fbdf865da8ab65ef3072dc39131') in 0.022096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.066988 seconds.
+  path: Assets/Warped City 2/Prefabs/Misc Prefabs
+  artifactKey: Guid(9844921e385f1478fa2e0981a271f7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Misc Prefabs using Guid(9844921e385f1478fa2e0981a271f7c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36929c3ed73f39afe0767c3eee26c92') in 0.058683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.588903 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs
+  artifactKey: Guid(a8509563c6eca43c095bac766d7d5aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs using Guid(a8509563c6eca43c095bac766d7d5aee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2cc9e7af89a83b439d16b00febc1a8') in 0.066544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.100813 seconds.
+  path: Assets/Warped City 2/Prefabs/Misc Prefabs/Enemy Shoot.prefab
+  artifactKey: Guid(1d4038a6399a9474186021bc95141960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Misc Prefabs/Enemy Shoot.prefab using Guid(1d4038a6399a9474186021bc95141960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85b8c258766535774cbb92eed652a920') in 0.334565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.052049 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Cop.prefab
+  artifactKey: Guid(b4bce5b4dff684ae88017b2ce6cdea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Cop.prefab using Guid(b4bce5b4dff684ae88017b2ce6cdea46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58e107af62326a6d727c0ec21d41ba2c') in 0.103183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Turret Shoot.prefab
+  artifactKey: Guid(4433234558afd42f4868b4d2fee8b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Turret Shoot.prefab using Guid(4433234558afd42f4868b4d2fee8b1ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b23811df7f6a618d03613eb414d6c30') in 0.059161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Shoot.prefab
+  artifactKey: Guid(b9829cba718174213bd97fb64398432d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Shoot.prefab using Guid(b9829cba718174213bd97fb64398432d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7480f4baf5aa285b9d41896cc7b97d09') in 0.044693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Jump.prefab
+  artifactKey: Guid(bfd59b186674148d7bf380ac19f85a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Jump.prefab using Guid(bfd59b186674148d7bf380ac19f85a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8792fedf7ecebf73b03f220cd71c4e01') in 0.070424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Warped City 2/Prefabs/Characters Prefabs/Player Idle.prefab
+  artifactKey: Guid(24f1134deedd24bd8a42117e97e04308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Characters Prefabs/Player Idle.prefab using Guid(24f1134deedd24bd8a42117e97e04308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe41e9f4024abd17d4dcdf7dccfe34a') in 0.058241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.168472 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Banner A.prefab
+  artifactKey: Guid(f19ea1f96faef4acaadd6f96188fc1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Banner A.prefab using Guid(f19ea1f96faef4acaadd6f96188fc1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8449f9ca56dd0fe210ed41d9df8b4e96') in 0.097079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Banner D.prefab
+  artifactKey: Guid(0935e73bb67614beb99d0c5f2e1628ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Banner D.prefab using Guid(0935e73bb67614beb99d0c5f2e1628ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4253b15cb373774033b3345954df9472') in 0.067695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Warped City 2/Prefabs/Props Prefabs/Banner E.prefab
+  artifactKey: Guid(f1c0015467521470d9c9ef879382c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Prefabs/Props Prefabs/Banner E.prefab using Guid(f1c0015467521470d9c9ef879382c0dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfa6c3ef8f9771e00e7be87e391d007') in 0.064404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 379.344115 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/background/back.png
+  artifactKey: Guid(27967ee1f727640d3a07da062fa83401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/background/back.png using Guid(27967ee1f727640d3a07da062fa83401) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c719e149395376b01757f0e5abeacf') in 0.053169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/background/middle.png
+  artifactKey: Guid(186447cd9ce584283af377113c1cade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/background/middle.png using Guid(186447cd9ce584283af377113c1cade8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8afc6a07d3a0af3529a870303924f46b') in 0.053997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.571190 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b1.png
+  artifactKey: Guid(20ce485b239644478b559950ddad51ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b1.png using Guid(20ce485b239644478b559950ddad51ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedcceefc7d1e8552ca001687bb6a60f') in 0.053550 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b3.png
+  artifactKey: Guid(f5b50f95bf82e44459a35f7f9ab74ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Warped City 2/Artwork/Environment/props/banner-b/banner-b3.png using Guid(f5b50f95bf82e44459a35f7f9ab74ddb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3fd66463e578eb3a830c353fb5b804') in 0.054514 seconds 
