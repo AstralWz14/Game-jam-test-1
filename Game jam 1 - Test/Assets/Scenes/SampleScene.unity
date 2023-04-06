@@ -946,6 +946,10 @@ MonoBehaviour:
   levelPartList:
   - {fileID: 5640074715105076509, guid: 45c840aa78d9be8419b2017847d026fc, type: 3}
   - {fileID: 8946290176523195354, guid: 868994cbac8b30447a9f61346ed1309d, type: 3}
+  - {fileID: 4962214827741587412, guid: 62b99e80c102eb6438fb95b05dddc4db, type: 3}
+  - {fileID: 1343981988868181725, guid: 98649d095814b4d4f826e152576f5117, type: 3}
+  - {fileID: 976987590611395626, guid: 8049d4adbbf4598459fbc0f55f99efef, type: 3}
+  - {fileID: 2725975808389140005, guid: 1a86d1e2dbf5493499bc60a446174857, type: 3}
   player: {fileID: 970549726}
   lastEndPosition: {x: 0, y: 0, z: 0}
 --- !u!4 &818514858
@@ -1000,7 +1004,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.015, y: -0.085}
+  m_Offset: {x: -0.015, y: -0.135}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1011,7 +1015,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.2, y: 0.6}
+  m_Size: {x: 0.2, y: 0.5}
   m_EdgeRadius: 0
 --- !u!50 &970549720
 Rigidbody2D:
@@ -1145,6 +1149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   controller: {fileID: 970549723}
+  animator: {fileID: 970549727}
   runSpeed: 50
 --- !u!114 &970549725
 MonoBehaviour:
